@@ -4,6 +4,6 @@ my:
     values: One, Two, Three
 
 db:
-  connection: {cipher}c43ccdec8d9f0169f0d7a929db972c7858633d19ec7fa25995e2469af9a3b53f
+  connection: c43ccdec8d9f0169f0d7a929db972c7858633d19ec7fa25995e2469af9a3b53f
   host: 127.0.0.1
   port: 1200
