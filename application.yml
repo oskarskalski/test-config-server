@@ -1,7 +1,7 @@
 service:
   name: WAREHOUSE-PL04
 db:
-  connection: jdbc:mysql://https://mkwk107.cba.pl/qwerty312
+  connection: jdbc:mysql://mkwk107.cba.pl/qwerty312
   driver: com.mysql.cj.jdbc.Driver
   username: ossk321
   password: qwerty312
