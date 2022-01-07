@@ -1,7 +1,7 @@
 service:
   name: WAREHOUSE-PL03
 db:
-  connection: jdbc:mysql://localhost:3306/warehouse-pl03
+  connection: jdbc:mysql://host.docker.internal:3306/warehouse-pl03
   driver: com.mysql.cj.jdbc.Driver
   username: root
   password:
